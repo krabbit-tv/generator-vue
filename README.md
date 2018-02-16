@@ -17,7 +17,7 @@ o
 
 Esto creara un directorio "Component" o "path/to/component/Component" con 4 archivos
 
-Component.vue
-Component.html
-Component.js
-Component.css
+..* Component.vue
+..* Component.html
+..* Component.js
+..* Component.css
