@@ -1,0 +1,14 @@
+{
+  "name": "generator-vue",
+  "version": "0.0.1",
+  "description": "Generador de componentes Vue",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.2"
+  }
+}
